@@ -1,0 +1,614 @@
+src/com/igate/surveymanagement/bean/AnswerBean.java:14:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/AnswerBean.java:15:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/AnswerBean.java:16:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/AnswerBean.java:17:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/AnswerBean.java:20:	Parameter 'answer' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/AnswerBean.java:20:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/AnswerBean.java:23:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/AnswerBean.java:26:	Parameter 'userName' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/AnswerBean.java:26:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/AnswerBean.java:29:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/AnswerBean.java:32:	Parameter 'userId' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/AnswerBean.java:32:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/OptionsBean.java:6:	headerCommentRequirement Required
+src/com/igate/surveymanagement/bean/OptionsBean.java:8:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/OptionsBean.java:9:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/OptionsBean.java:10:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/OptionsBean.java:12:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/OptionsBean.java:15:	Parameter 'count' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/OptionsBean.java:15:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/OptionsBean.java:18:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/OptionsBean.java:21:	Parameter 'optionId' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/OptionsBean.java:21:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/OptionsBean.java:24:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/OptionsBean.java:27:	Parameter 'optionDesc' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/OptionsBean.java:27:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:9:	headerCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:10:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:13:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:16:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:18:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:19:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:20:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:23:	Parameter 'quesId' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/QuestionBean.java:23:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:26:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:29:	Parameter 'quesText' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/QuestionBean.java:29:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:32:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:35:	Parameter 'quesType' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/QuestionBean.java:35:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:39:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:42:	Parameter 'options' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/QuestionBean.java:42:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:45:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:48:	Parameter 'answers' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/QuestionBean.java:48:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:51:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:55:	Parameter 'options' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/QuestionBean.java:55:	Parameter 'quesText' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/QuestionBean.java:55:	Parameter 'quesType' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/QuestionBean.java:55:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/QuestionBean.java:62:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:11:	headerCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:12:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:14:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:16:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:17:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:18:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:19:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:20:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:23:	Parameter 'surveyId' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/SurveyBean.java:23:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:26:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:29:	Parameter 'surveyTitle' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/SurveyBean.java:29:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:32:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:35:	Parameter 'surveyDescription' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/SurveyBean.java:35:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:38:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:41:	Parameter 'distributionId' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/SurveyBean.java:41:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:45:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:48:	Parameter 'distributionDate' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/SurveyBean.java:48:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:51:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:54:	Parameter 'expiryDate' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/SurveyBean.java:54:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/SurveyBean.java:57:	Avoid unnecessary constructors - the compiler will generate these for you
+src/com/igate/surveymanagement/bean/SurveyBean.java:57:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:9:	headerCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:11:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:16:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:17:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:18:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:19:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:20:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:21:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:23:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:26:	Parameter 'activeUser' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/UserBean.java:26:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:30:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:34:	Parameter 'userId' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/UserBean.java:34:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:39:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:42:	Parameter 'userPassword' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/UserBean.java:42:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:45:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:48:	Parameter 'firstName' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/UserBean.java:48:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:51:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:54:	Parameter 'lastName' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/UserBean.java:54:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:57:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:60:	Parameter 'userType' is not assigned and could be declared final
+src/com/igate/surveymanagement/bean/UserBean.java:60:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/bean/UserBean.java:63:	Avoid unnecessary constructors - the compiler will generate these for you
+src/com/igate/surveymanagement/bean/UserBean.java:63:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/AdminController.java:3:	Each class should declare at least one constructor
+src/com/igate/surveymanagement/controller/AdminController.java:3:	headerCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:17:	Avoid unused imports such as 'org.springframework.web.bind.annotation.ResponseBody'
+src/com/igate/surveymanagement/controller/CommonController.java:25:	headerCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/CommonController.java:27:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/controller/CommonController.java:27:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:28:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/controller/CommonController.java:28:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:29:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/controller/CommonController.java:29:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/CommonController.java:30:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/controller/CommonController.java:30:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:31:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/CommonController.java:31:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/controller/CommonController.java:31:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/CommonController.java:32:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/controller/CommonController.java:32:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:34:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/CommonController.java:34:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/controller/CommonController.java:34:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:36:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/controller/CommonController.java:37:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:39:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/controller/CommonController.java:40:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/CommonController.java:40:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:43:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:43:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:46:	The String literal "user" appears 5 times in this file; the first occurrence is on line 46
+src/com/igate/surveymanagement/controller/CommonController.java:53:	Avoid reassigning parameters such as 'user'
+src/com/igate/surveymanagement/controller/CommonController.java:53:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:53:	Parameter 'result' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:53:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:59:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/controller/CommonController.java:63:	Found 'DD'-anomaly for variable 'user1' (lines '63'-'64').
+src/com/igate/surveymanagement/controller/CommonController.java:66:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/surveymanagement/controller/CommonController.java:68:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/controller/CommonController.java:71:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/surveymanagement/controller/CommonController.java:73:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/surveymanagement/controller/CommonController.java:74:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/surveymanagement/controller/CommonController.java:76:	Potential violation of Law of Demeter (method chain calls)
+src/com/igate/surveymanagement/controller/CommonController.java:81:	The String literal "newUser" appears 4 times in this file; the first occurrence is on line 81
+src/com/igate/surveymanagement/controller/CommonController.java:82:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/controller/CommonController.java:84:	Potential violation of Law of Demeter (method chain calls)
+src/com/igate/surveymanagement/controller/CommonController.java:85:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/surveymanagement/controller/CommonController.java:86:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/controller/CommonController.java:96:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:96:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:103:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:103:	Parameter 'newuser' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:103:	Parameter 'result' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:103:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:107:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/controller/CommonController.java:111:	Local variable 'rowcount' could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:114:	Avoid using Literals in Conditional Statements
+src/com/igate/surveymanagement/controller/CommonController.java:118:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/controller/CommonController.java:129:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:129:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:137:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:137:	Parameter 'userId' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:137:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/CommonController.java:138:	Local variable 'user' could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:144:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:144:	Parameter 'session' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/CommonController.java:144:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/ResponderController.java:3:	Each class should declare at least one constructor
+src/com/igate/surveymanagement/controller/ResponderController.java:3:	headerCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:23:	headerCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:25:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/surveymanagement/controller/SurveyorController.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/SurveyorController.java:25:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/SurveyorController.java:26:	Perhaps 'question' could be replaced by a local variable.
+src/com/igate/surveymanagement/controller/SurveyorController.java:26:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/SurveyorController.java:27:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:28:	Avoid unused private fields such as 'option'.
+src/com/igate/surveymanagement/controller/SurveyorController.java:28:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:29:	Avoid unused private fields such as 'optiondesc'.
+src/com/igate/surveymanagement/controller/SurveyorController.java:29:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/surveymanagement/controller/SurveyorController.java:29:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/SurveyorController.java:30:	Perhaps 'questionTyp' could be replaced by a local variable.
+src/com/igate/surveymanagement/controller/SurveyorController.java:30:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:31:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/SurveyorController.java:31:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:32:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/surveymanagement/controller/SurveyorController.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/SurveyorController.java:32:	Private field 'displayQuestion' could be made final; it is only initialized in the declaration or constructor.
+src/com/igate/surveymanagement/controller/SurveyorController.java:32:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:34:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/SurveyorController.java:34:	Private field 'reviewHome' could be made final; it is only initialized in the declaration or constructor.
+src/com/igate/surveymanagement/controller/SurveyorController.java:34:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:35:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/SurveyorController.java:35:	Private field 'reviewSurvey' could be made final; it is only initialized in the declaration or constructor.
+src/com/igate/surveymanagement/controller/SurveyorController.java:35:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:36:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/SurveyorController.java:36:	Private field 'surveyEdit' could be made final; it is only initialized in the declaration or constructor.
+src/com/igate/surveymanagement/controller/SurveyorController.java:36:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:39:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/controller/SurveyorController.java:39:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:41:	Comment is too large: Too many lines
+src/com/igate/surveymanagement/controller/SurveyorController.java:49:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:57:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:57:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:59:	Local variable 'surveyList' could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:61:	The String literal "user" appears 9 times in this file; the first occurrence is on line 61
+src/com/igate/surveymanagement/controller/SurveyorController.java:67:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:67:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:69:	Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/com/igate/surveymanagement/controller/SurveyorController.java:69:	Avoid unused local variables such as 'surveyList'.
+src/com/igate/surveymanagement/controller/SurveyorController.java:69:	Found 'DU'-anomaly for variable 'surveyList' (lines '69'-'75').
+src/com/igate/surveymanagement/controller/SurveyorController.java:69:	Local variable 'surveyList' could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:78:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:78:	Parameter 'surveyId' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:78:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:80:	Local variable 'quesList' could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:88:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:88:	Parameter 'userObj' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:88:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:91:	Local variable 'userList' could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:96:	The String literal "create" appears 4 times in this file; the first occurrence is on line 96
+src/com/igate/surveymanagement/controller/SurveyorController.java:102:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:102:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:114:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:114:	Parameter 'result' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:114:	Parameter 'survey' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:114:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:119:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/controller/SurveyorController.java:123:	The String literal "question" appears 5 times in this file; the first occurrence is on line 123
+src/com/igate/surveymanagement/controller/SurveyorController.java:128:	The String literal "questionType" appears 5 times in this file; the first occurrence is on line 128
+src/com/igate/surveymanagement/controller/SurveyorController.java:133:	Avoid variables with short names like rs
+src/com/igate/surveymanagement/controller/SurveyorController.java:133:	Local variable 'rs' could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:136:	Avoid unnecessary comparisons in boolean expressions
+src/com/igate/surveymanagement/controller/SurveyorController.java:136:	Avoid using Literals in Conditional Statements
+src/com/igate/surveymanagement/controller/SurveyorController.java:137:	The String literal "survey" appears 4 times in this file; the first occurrence is on line 137
+src/com/igate/surveymanagement/controller/SurveyorController.java:139:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/controller/SurveyorController.java:147:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:147:	Parameter 'result' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:147:	Parameter 'survey' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:147:	Parameter 'type' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:147:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:160:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/controller/SurveyorController.java:161:	Useless parentheses.
+src/com/igate/surveymanagement/controller/SurveyorController.java:161:	Useless parentheses.
+src/com/igate/surveymanagement/controller/SurveyorController.java:161:	Useless parentheses.
+src/com/igate/surveymanagement/controller/SurveyorController.java:161:	Useless parentheses.
+src/com/igate/surveymanagement/controller/SurveyorController.java:161:	Useless parentheses.
+src/com/igate/surveymanagement/controller/SurveyorController.java:161:	Useless parentheses.
+src/com/igate/surveymanagement/controller/SurveyorController.java:164:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/controller/SurveyorController.java:178:	Found 'UR'-anomaly for variable 'i' (lines '178'-'193').
+src/com/igate/surveymanagement/controller/SurveyorController.java:178:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:178:	Parameter 'options' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:178:	Parameter 'ques' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:178:	Parameter 'result' is not assigned and could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:178:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/controller/SurveyorController.java:180:	Potential violation of Law of Demeter (method chain calls)
+src/com/igate/surveymanagement/controller/SurveyorController.java:180:	Useless parentheses.
+src/com/igate/surveymanagement/controller/SurveyorController.java:180:	Useless parentheses.
+src/com/igate/surveymanagement/controller/SurveyorController.java:185:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/controller/SurveyorController.java:188:	Local variable 'list' could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:192:	Local variable 'i' could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:193:	Position literals first in String comparisons
+src/com/igate/surveymanagement/controller/SurveyorController.java:193:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/surveymanagement/controller/SurveyorController.java:194:	Avoid instantiating new objects inside loops
+src/com/igate/surveymanagement/controller/SurveyorController.java:194:	Avoid variables with short names like op
+src/com/igate/surveymanagement/controller/SurveyorController.java:194:	Local variable 'op' could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:203:	Avoid variables with short names like i
+src/com/igate/surveymanagement/controller/SurveyorController.java:203:	Local variable 'i' could be declared final
+src/com/igate/surveymanagement/controller/SurveyorController.java:205:	Avoid unnecessary comparisons in boolean expressions
+src/com/igate/surveymanagement/controller/SurveyorController.java:205:	Avoid using Literals in Conditional Statements
+src/com/igate/surveymanagement/controller/SurveyorController.java:210:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/dao/AdminDAOImpl.java:3:	Each class should declare at least one constructor
+src/com/igate/surveymanagement/dao/AdminDAOImpl.java:3:	headerCommentRequirement Required
+src/com/igate/surveymanagement/dao/AnswerRowMapper.java:10:	Avoid unused imports such as 'com.igate.surveymanagement.bean.QuestionBean'
+src/com/igate/surveymanagement/dao/AnswerRowMapper.java:14:	headerCommentRequirement Required
+src/com/igate/surveymanagement/dao/AnswerRowMapper.java:17:	Avoid variables with short names like rs
+src/com/igate/surveymanagement/dao/AnswerRowMapper.java:17:	Parameter 'index' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/AnswerRowMapper.java:17:	Parameter 'rs' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/AnswerRowMapper.java:17:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/AnswerRowMapper.java:19:	Local variable 'answer' could be declared final
+src/com/igate/surveymanagement/dao/AnswerRowMapper.java:21:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/com/igate/surveymanagement/dao/AnswerRowMapper.java:21:	This statement may have some unnecessary parentheses
+src/com/igate/surveymanagement/dao/AnswerRowMapper.java:21:	Useless parentheses.
+src/com/igate/surveymanagement/dao/AnswerRowMapper.java:21:	Useless parentheses.
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:13:	headerCommentRequirement Required
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:15:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:16:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:18:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:19:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:22:	Parameter 'user' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:22:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:26:	Found 'DD'-anomaly for variable 'user1' (lines '26'-'33').
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:28:	Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:28:	Avoid unused local variables such as 'status'.
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:28:	Found 'DU'-anomaly for variable 'status' (lines '28'-'36').
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:28:	Local variable 'status' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:29:	Local variable 'query' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:30:	Local variable 'params' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:43:	Parameter 'newuser' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:43:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:49:	Local variable 'idQuery' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:51:	Found 'DU'-anomaly for variable 'addUserQuery' (lines '51'-'74').
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:51:	Local variable 'addUserQuery' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:53:	Found 'DU'-anomaly for variable 'userStatus' (lines '53'-'74').
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:53:	Local variable 'userStatus' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:54:	Local variable 'userId' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:56:	Local variable 'checkUserQuery' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:57:	Local variable 'param1' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:58:	Local variable 'userCount' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:60:	Avoid using Literals in Conditional Statements
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:62:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:67:	Local variable 'params' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:68:	Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:68:	Avoid unused local variables such as 'newUserCount'.
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:68:	Found 'DU'-anomaly for variable 'newUserCount' (lines '68'-'74').
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:68:	Local variable 'newUserCount' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:81:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:83:	Local variable 'sql' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:84:	Local variable 'userList' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:85:	Consider simply returning the value vs storing it in local variable 'userList'
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:94:	Parameter 'status' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:94:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:95:	Found 'DD'-anomaly for variable 'setStatus' (lines '95'-'96').
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:95:	Found 'DD'-anomaly for variable 'setStatus' (lines '95'-'97').
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:96:	Found 'DD'-anomaly for variable 'setStatus' (lines '96'-'97').
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:96:	Position literals first in String comparisons for EqualsIgnoreCase
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:97:	Position literals first in String comparisons for EqualsIgnoreCase
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:99:	Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:99:	Avoid unused local variables such as 'sql'.
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:99:	Found 'DU'-anomaly for variable 'sql' (lines '99'-'102').
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:99:	Local variable 'sql' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:100:	Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:100:	Found 'DU'-anomaly for variable 'params' (lines '100'-'102').
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:100:	Local variable 'params' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:109:	Parameter 'userId' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:109:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:110:	Local variable 'sql' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:111:	Local variable 'params' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:120:	Parameter 'user' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:120:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:121:	Found 'DD'-anomaly for variable 'result' (lines '121'-'126').
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:121:	Found 'DD'-anomaly for variable 'result' (lines '121'-'129').
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:122:	Local variable 'sql' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:123:	Local variable 'params' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:124:	Local variable 'count' could be declared final
+src/com/igate/surveymanagement/dao/CommonDAOImpl.java:125:	Avoid using Literals in Conditional Statements
+src/com/igate/surveymanagement/dao/CommonRowMapper.java:14:	headerCommentRequirement Required
+src/com/igate/surveymanagement/dao/CommonRowMapper.java:17:	Avoid variables with short names like rs
+src/com/igate/surveymanagement/dao/CommonRowMapper.java:17:	Parameter 'index' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/CommonRowMapper.java:17:	Parameter 'rs' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/CommonRowMapper.java:17:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/CommonRowMapper.java:20:	Local variable 'user' could be declared final
+src/com/igate/surveymanagement/dao/IAdminDAO.java:3:	headerCommentRequirement Required
+src/com/igate/surveymanagement/dao/ICommonDAO.java:7:	headerCommentRequirement Required
+src/com/igate/surveymanagement/dao/ICommonDAO.java:8:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ICommonDAO.java:8:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ICommonDAO.java:9:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ICommonDAO.java:9:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ICommonDAO.java:10:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ICommonDAO.java:10:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ICommonDAO.java:11:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ICommonDAO.java:11:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ICommonDAO.java:12:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ICommonDAO.java:12:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ICommonDAO.java:13:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ICommonDAO.java:13:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/IResponderDAO.java:3:	headerCommentRequirement Required
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:9:	headerCommentRequirement Required
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:11:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:11:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:12:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:12:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:13:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:13:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:14:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:14:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:15:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:15:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:16:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:16:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:17:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:17:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:18:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:18:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:19:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:19:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:20:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:20:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:21:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/dao/ISurveyorDAO.java:21:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/OptionRowMapper.java:10:	Avoid unused imports such as 'com.igate.surveymanagement.bean.QuestionBean'
+src/com/igate/surveymanagement/dao/OptionRowMapper.java:14:	headerCommentRequirement Required
+src/com/igate/surveymanagement/dao/OptionRowMapper.java:17:	Avoid variables with short names like rs
+src/com/igate/surveymanagement/dao/OptionRowMapper.java:17:	Parameter 'index' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/OptionRowMapper.java:17:	Parameter 'rs' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/OptionRowMapper.java:17:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/OptionRowMapper.java:19:	Local variable 'option' could be declared final
+src/com/igate/surveymanagement/dao/OptionRowMapper.java:20:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/com/igate/surveymanagement/dao/OptionRowMapper.java:20:	This statement may have some unnecessary parentheses
+src/com/igate/surveymanagement/dao/OptionRowMapper.java:20:	Useless parentheses.
+src/com/igate/surveymanagement/dao/OptionRowMapper.java:20:	Useless parentheses.
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:13:	headerCommentRequirement Required
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:16:	Avoid variables with short names like rs
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:16:	Parameter 'index' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:16:	Parameter 'rs' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:16:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:18:	Local variable 'question' could be declared final
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:19:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:19:	This statement may have some unnecessary parentheses
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:19:	Useless parentheses.
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:19:	Useless parentheses.
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:20:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:20:	This statement may have some unnecessary parentheses
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:20:	Useless parentheses.
+src/com/igate/surveymanagement/dao/QuestionRowMapper.java:20:	Useless parentheses.
+src/com/igate/surveymanagement/dao/ResponderDAOImpl.java:3:	Each class should declare at least one constructor
+src/com/igate/surveymanagement/dao/ResponderDAOImpl.java:3:	headerCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyRowMapper.java:9:	Avoid unused imports such as 'com.igate.surveymanagement.bean.OptionsBean'
+src/com/igate/surveymanagement/dao/SurveyRowMapper.java:10:	Avoid unused imports such as 'com.igate.surveymanagement.bean.QuestionBean'
+src/com/igate/surveymanagement/dao/SurveyRowMapper.java:15:	headerCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyRowMapper.java:18:	Avoid variables with short names like rs
+src/com/igate/surveymanagement/dao/SurveyRowMapper.java:18:	Parameter 'index' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyRowMapper.java:18:	Parameter 'rs' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyRowMapper.java:18:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyRowMapper.java:20:	Local variable 'survey' could be declared final
+src/com/igate/surveymanagement/dao/SurveyRowMapper.java:21:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/com/igate/surveymanagement/dao/SurveyRowMapper.java:21:	Avoid unnecessary temporaries when converting primitives to Strings
+src/com/igate/surveymanagement/dao/SurveyRowMapper.java:21:	Avoid unnecessary temporaries when converting primitives to Strings
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:21:	headerCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:23:	Avoid excessively long variable names like questionSingleChoice
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:23:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:23:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:24:	Avoid excessively long variable names like questionMupltipleChoice
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:24:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:24:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:26:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:27:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:29:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:30:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:33:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:33:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:36:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:36:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:39:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:39:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:41:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:41:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:47:	Parameter 'quesList' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:47:	Parameter 'surveyId' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:47:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:53:	Parameter 'surveyId' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:53:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:59:	Parameter 'surveyId' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:59:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:65:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:71:	Parameter 'surveyId' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:71:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:72:	Parameter 'responderList' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:78:	Found 'UR'-anomaly for variable 'ques' (lines '78'-'101').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:78:	Parameter 'surveyId' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:78:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:80:	Local variable 'sql' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:84:	Found 'DU'-anomaly for variable 'sql1' (lines '84'-'117').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:84:	Local variable 'sql1' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:91:	Found 'DU'-anomaly for variable 'sql2' (lines '91'-'117').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:91:	Local variable 'sql2' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:95:	Local variable 'params' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:96:	Local variable 'quesList' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:99:	Local variable 'ques' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:101:	Avoid instantiating new objects inside loops
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:101:	Local variable 'params1' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:102:	Potential violation of Law of Demeter (method chain calls)
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:102:	Potential violation of Law of Demeter (method chain calls)
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:105:	Local variable 'optionList' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:110:	Local variable 'ansList' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:120:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:126:	Parameter 'survey' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:126:	Parameter 'userId' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:126:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:129:	Local variable 'query' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:130:	Local variable 'query1' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:132:	Avoid variables with short names like id
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:132:	Local variable 'id' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:133:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:133:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:133:	This statement may have some unnecessary parentheses
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:133:	Useless parentheses.
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:133:	Useless parentheses.
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:135:	Local variable 'param' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:136:	Local variable 'result' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:138:	Avoid unnecessary if..then..else statements when returning booleans
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:138:	Avoid using Literals in Conditional Statements
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:141:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:149:	Found 'UR'-anomaly for variable 'option' (lines '149'-'168').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:149:	Found 'UR'-anomaly for variable 'result' (lines '149'-'175').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:149:	Parameter 'question' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:149:	Parameter 'survey' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:149:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:151:	Local variable 'query' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:152:	Local variable 'query2' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:153:	Found 'DU'-anomaly for variable 'query1' (lines '153'-'185').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:153:	Local variable 'query1' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:154:	System.out.print is used
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:155:	Found 'DU'-anomaly for variable 'questiontype' (lines '155'-'185').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:155:	Local variable 'questiontype' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:157:	Avoid variables with short names like id
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:157:	Local variable 'id' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:158:	Local variable 'param' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:159:	Local variable 'success' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:161:	Found 'DD'-anomaly for variable 'optionUpdate' (lines '161'-'170').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:161:	Found 'DU'-anomaly for variable 'optionUpdate' (lines '161'-'185').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:164:	Avoid using Literals in Conditional Statements
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:167:	Avoid using if...else statements without curly braces
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:167:	Local variable 'option' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:168:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:168:	System.out.print is used
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:169:	Avoid instantiating new objects inside loops
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:169:	Local variable 'param1' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:169:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:170:	Found 'DD'-anomaly for variable 'optionUpdate' (lines '170'-'170').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:170:	Found 'DU'-anomaly for variable 'optionUpdate' (lines '170'-'185').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:174:	Avoid using if...else statements without curly braces
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:175:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:180:	Avoid using Literals in Conditional Statements
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:181:	Avoid using if...else statements without curly braces
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:183:	Avoid using if...else statements without curly braces
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:190:	Parameter 'user' is not assigned and could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:190:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:194:	Found 'DD'-anomaly for variable 'user1' (lines '194'-'201').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:196:	Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:196:	Avoid unused local variables such as 'status'.
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:196:	Found 'DU'-anomaly for variable 'status' (lines '196'-'204').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:196:	Local variable 'status' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:197:	Local variable 'query' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:198:	Local variable 'params' could be declared final
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:207:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:208:	Found 'DD'-anomaly for variable 'surveyList' (lines '208'-'210').
+src/com/igate/surveymanagement/dao/SurveyorDAOImpl.java:209:	Local variable 'sql' could be declared final
+src/com/igate/surveymanagement/service/AdminServiceImpl.java:3:	Each class should declare at least one constructor
+src/com/igate/surveymanagement/service/AdminServiceImpl.java:3:	headerCommentRequirement Required
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:12:	headerCommentRequirement Required
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:13:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:14:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:17:	Parameter 'login' is not assigned and could be declared final
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:17:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:25:	Parameter 'newuser' is not assigned and could be declared final
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:25:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:33:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:41:	Parameter 'userId' is not assigned and could be declared final
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:41:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:49:	Parameter 'user' is not assigned and could be declared final
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:49:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:57:	Parameter 'status' is not assigned and could be declared final
+src/com/igate/surveymanagement/service/CommonServiceImpl.java:57:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/IAdminService.java:3:	headerCommentRequirement Required
+src/com/igate/surveymanagement/service/ICommonService.java:7:	headerCommentRequirement Required
+src/com/igate/surveymanagement/service/ICommonService.java:8:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/service/ICommonService.java:8:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/ICommonService.java:9:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/service/ICommonService.java:9:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/ICommonService.java:10:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/service/ICommonService.java:10:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/ICommonService.java:11:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/service/ICommonService.java:11:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/ICommonService.java:12:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/service/ICommonService.java:12:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/ICommonService.java:13:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/service/ICommonService.java:13:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/IResponderService.java:3:	headerCommentRequirement Required
+src/com/igate/surveymanagement/service/ISurveyorService.java:12:	headerCommentRequirement Required
+src/com/igate/surveymanagement/service/ISurveyorService.java:13:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/service/ISurveyorService.java:13:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/ISurveyorService.java:14:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/service/ISurveyorService.java:14:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/ISurveyorService.java:15:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/service/ISurveyorService.java:15:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/ISurveyorService.java:16:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/service/ISurveyorService.java:16:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/ISurveyorService.java:17:	Avoid modifiers which are implied by the context
+src/com/igate/surveymanagement/service/ISurveyorService.java:17:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/ResponderServiceImpl.java:3:	Each class should declare at least one constructor
+src/com/igate/surveymanagement/service/ResponderServiceImpl.java:3:	headerCommentRequirement Required
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:14:	headerCommentRequirement Required
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:15:	Use explicit scoping instead of the default package private level
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:16:	fieldCommentRequirement Required
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:19:	Parameter 'surveyId' is not assigned and could be declared final
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:19:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:25:	Parameter 'survey' is not assigned and could be declared final
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:25:	Parameter 'userId' is not assigned and could be declared final
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:25:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:32:	Parameter 'question' is not assigned and could be declared final
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:32:	Parameter 'survey' is not assigned and could be declared final
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:32:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:38:	Parameter 'login' is not assigned and could be declared final
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:38:	publicMethodCommentRequirement Required
+src/com/igate/surveymanagement/service/SurveyorServiceImpl.java:44:	publicMethodCommentRequirement Required
